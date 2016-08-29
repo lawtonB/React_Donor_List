@@ -116,7 +116,7 @@
     "no-unexpected-multiline": 2,
     "no-unneeded-ternary": 1,
     "no-unreachable": 2,
-    "no-unused-vars": [1, { "vars": "all", "args": "none" }],
+    "no-unused-vars": [0, { "vars": "all", "args": "none" }],
     "no-use-before-define": [2, "nofunc"],
     "no-useless-call": 2,
     "no-with": 2,
